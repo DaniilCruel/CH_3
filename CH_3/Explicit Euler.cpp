@@ -7,7 +7,7 @@ double func(double* u, int n, double tk)
 {
 	if (tk == 0)
 	{
-		tk = 0.000000001;
+		tk = 0.000002340001;
 	}
 	const int a = 1;
 	switch (n)
